@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 <h3 align="center">Data Analyst from Russia, passionate about insights, storytelling, and turning data into decisions.</h3>
 
-- 🔭 I’m currently working on data analysis projects using Python and SQL.
+- 🔭 I'm currently participating in the Volga-IT Olympiad..
 
 - 📫 How to reach me: **ilya24608@gmail.com**
 
