@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 <h3 align="center">Data Analyst from Russia, passionate about insights, storytelling, and turning data into decisions.</h3>
 
-- 🔭 I'm currently I'm looking for an internship and doing pet projects.
+- 🔭 I'm currently looking for an internship and doing pet projects.
 
 - 📫 How to reach me: **ilya24608@gmail.com**
 
