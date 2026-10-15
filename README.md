@@ -11,7 +11,7 @@
 
 I specialize in:
 - 📊 **Data Analysis & BI**: SQL (PostgreSQL, MS SQL Server), Python (pandas, NumPy), Power BI, Excel
-- 🤖 **Automation**: n8n, JavaScript, API integrations, process optimization
+- 🤖 **Automation**: n8n, JavaScript, API integrations, process optimization, pandas
 - 📈 **Analytics**: EDA, statistical analysis, data visualization, pattern recognition
 - 💡 **Problem-solving**: Using LLMs to accelerate development, hypothesis generation, and code review
 
@@ -19,7 +19,7 @@ I specialize in:
 
 ## 🎯 What I Do
 
-- Develop Telegram bots for project metrics tracking (n8n + JavaScript)
+- Develop Telegram bots for project metrics tracking (n8n + JavaScript or Python)
 - Create data pipelines for unstructured data processing (JSON imports, complex SQL queries)
 - Design normalized databases for business applications
 - Perform exploratory data analysis and build predictive models
@@ -29,7 +29,7 @@ I specialize in:
 
 - **Volga IT 2025** (2nd place, PostgreSQL): Built data pipeline with window functions
 - **WorldSkills Winner**: Designed 20-table normalized DB + desktop application
-- **GISIT 2025** (2nd place): International data analysis competition
+- **GISIT 2025** (2nd place)
 
 ## 📫 Let's Connect
 
@@ -46,7 +46,6 @@ I specialize in:
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brainiks&show_icons=true&locale=en&layout=compact" alt="ilya" /></p>
